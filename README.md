@@ -65,17 +65,20 @@
 # Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/RPRR6KFPKX71)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/ISZ8ILDHJCNW)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Big Data - Capstone Project](https://www.coursera.org/account/accomplishments/certificate/CS6RCR6HXVB9)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)Academic Skills for University Success: Capstone](https://www.coursera.org/account/accomplishments/certificate/4PYQRR5A11VB)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) IBM Full Stack Software Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/9KQFWWFMRPQ9)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) IBM Full Stack Software Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/9KQFWWFMRPQ9)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Django Application Development with SQL and Databases](https://www.coursera.org/account/accomplishments/certificate/29JH94G4X7CW)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Machine Learning With Big Data](https://www.coursera.org/account/accomplishments/certificate/YAF7L6T6CKRZ)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/469PWCFFVEXA)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/certificate/ADA3RGLMHDYG)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/certificate/FRVP7QCZECS5)
+
+### 📜 Chứng chỉ Coursera  
+
+- 🎓 [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/RPRR6KFPKX71)  
+- 📝 [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/ISZ8ILDHJCNW)  
+- 📊 [Big Data - Capstone Project](https://www.coursera.org/account/accomplishments/certificate/CS6RCR6HXVB9)  
+- 🎓 [Academic Skills for University Success: Capstone](https://www.coursera.org/account/accomplishments/certificate/4PYQRR5A11VB)  
+- 🏆 [IBM Full Stack Software Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/9KQFWWFMRPQ9)  
+- 🔥 [Django Application Development with SQL and Databases](https://www.coursera.org/account/accomplishments/certificate/29JH94G4X7CW)  
+- 🤖 [Machine Learning With Big Data](https://www.coursera.org/account/accomplishments/certificate/YAF7L6T6CKRZ)  
+- 🐍 [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/469PWCFFVEXA)  
+- ☁️ [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/certificate/ADA3RGLMHDYG)  
+- 🌐 [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/certificate/FRVP7QCZECS5)  
+
 
 <!--
 **GiangCo12/GiangCo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
