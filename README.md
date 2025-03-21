@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm Nguyễn Trường Giang</h2>
 <p align="center">
-  <h3 align="center">An AI enthusiast from Vietnam </h3>
+  <h3 align="center">An AI Enthusiast From VietNam </h3>
 </p>
 
 > ✍ I'm a student of : [FPT Ho Chi Minh] (https://daihoc.fpt.edu.vn/) 
