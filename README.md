@@ -45,7 +45,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <a target="_blank" href="https://icons8.com/icon/117121/pycharm">PyCharm</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+  <img src="https://img.icons8.com/color/48/pycharm--v1.png"/>
 </p>
 
 ## Activities:
