@@ -7,7 +7,7 @@
   <h3 align="center">An AI enthusiast from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a student of : FPTU HCM 
+> ✍ I'm a student of : [FPT Ho Chi Minh] (https://daihoc.fpt.edu.vn/) 
 
 <br />
 
